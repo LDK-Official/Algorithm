@@ -5,4 +5,6 @@ module com.example.algorithm {
 
     opens com.example.algorithm to javafx.fxml;
     exports com.example.algorithm;
+    exports com.example.algorithm.Etc;
+    opens com.example.algorithm.Etc to javafx.fxml;
 }
