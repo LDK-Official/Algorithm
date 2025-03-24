@@ -1,4 +1,4 @@
-package com.example.algorithm.Etc;
+package com.example.algorithm.Daily;
 
 import java.io.BufferedReader;
 import java.io.IOException;

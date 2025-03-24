@@ -1,4 +1,4 @@
-package com.example.algorithm.Dynamicprograming;
+package com.example.algorithm.AivleStudy;
 
 import java.io.BufferedReader;
 import java.io.IOException;
